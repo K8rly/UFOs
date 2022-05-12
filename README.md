@@ -22,23 +22,23 @@ See below for examples of search results for each criteria:
 
 Date
 
-!["Date"](Static/images/Date.png)
+!["Date"](static/images/Date.png)
 
 City
 
-!["City"](Static/images/City.png)
+!["City"](static/images/City.png)
 
 State
 
-!["State"](Static/images/State.png)
+!["State"](static/images/State.png)
 
 Country
 
-!["Country"](Static/images/Country.png)
+!["Country"](static/images/Country.png)
 
 Shape
 
-!["Shape"](Static/images/Shape.png)
+!["Shape"](static/images/Shape.png)
 
 
 ## Summary
