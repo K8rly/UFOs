@@ -1,10 +1,10 @@
 # UFOs
 
-## Project Overview:
+## Project Overview
 
 The purpose of this project was to assist Dana in providing a more in depth analysis of UFO sightings by enabling users to filter for multiple criteria at the same time on her UFP sighting website. Filters for city, state, country, and shape were added to the already existing date filter.
 
-## Results:
+## Results
 
 To use the filter function on the webpage follow the instructions below:
 
@@ -41,7 +41,7 @@ Shape
 !["Shape"](Static/images/Shape.png)
 
 
-## Summary:
+## Summary
 
 Potential Drawback:
 
